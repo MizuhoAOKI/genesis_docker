@@ -2,6 +2,10 @@
 
 This repository provides a GPU enabled docker environment for [Genesis](https://genesis-world.readthedocs.io/en/latest/user_guide/overview/what_is_genesis.html), a universal physics engine for various simulations.
 
+
+https://github.com/user-attachments/assets/98967003-c8ba-4930-bc01-9b2ea2be4689
+
+
 ## Docker Environment
 - OS: Ubuntu 22.04
     - base image: `nvcr.io/nvidia/cuda:12.1.0-cudnn8-devel-ubuntu22.04`
